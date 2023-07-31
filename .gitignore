@@ -6,3 +6,4 @@ node_modules
 public/bundle.css
 public/bundle.js
 app.zip
+package-lock.json
